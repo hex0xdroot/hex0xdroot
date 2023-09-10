@@ -2,15 +2,15 @@
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" style="width: 100%" />
 </div>
 
- <h3 align="center">I'm Ahmet, freelance developer 👨‍💻</h3>
+ <h3 align="center">I'm hex0xdroot, freelance developer 👨‍💻</h3>
 
 
  <h2 align="center">Contact</h2>      
 
 
 <div align="center">
-    <a href="https://discord.com/users/554415480471945217" target="_blank"><img alt="Discord"  height="50" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/2560px-Discord_logo_new.svg.png"></img></a>
-    <a href="https://www.linkedin.com/in/ahmetozmtn" target="_blank"><img alt="Linkdin"  height="70" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"></img></a>
+    <a href="https://discord.com/users/119874076624945154" target="_blank"><img alt="Discord"  height="50" src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c7/Discord_logo_new.svg/2560px-Discord_logo_new.svg.png"></img></a>
+    <a href="https://www.linkedin.com/in/hex0xdroot" target="_blank"><img alt="Linkdin"  height="70" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"></img></a>
 </div>
 
 
