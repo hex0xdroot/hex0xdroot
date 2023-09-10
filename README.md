@@ -38,8 +38,8 @@
 </br></p>
 
 <p align="center">
-<img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=ahmetozmtn&theme=dark&hide_border=true"></img>
-<img height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetozmtn&theme=dark&hide_border=true&layout=compact"></img>
+<img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=hex0xdroot&theme=dark&hide_border=true"></img>
+<img height=198 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex0xdroot&theme=dark&hide_border=true&layout=compact"></img>
 </p>
 <br>   
 
@@ -50,7 +50,7 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ahmetozmtn&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=hex0xdroot&&style=flat-square" align="center" />
 </div>
 
 <br/>
